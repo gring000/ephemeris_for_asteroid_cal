@@ -21,3 +21,6 @@ $ ast0.dat
 [Date and Time Definitions](https://www.usno.navy.mil/USNO/earth-orientation/eo-info/general/date-time-def)
 
 [Different Real Time](http://leapsecond.com/java/gpsclock.htm)
+
+
+[图解不同时间系统差异](https://www.ucolick.org/~sla/leapsecs/deltatpng.html)
