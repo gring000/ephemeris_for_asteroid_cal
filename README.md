@@ -13,3 +13,9 @@ $ Put your initial condition to a file with name asteroids.dat
 $ ast0.dat
 ```
 输出的结果存放于 ast0.dat 中，坐标系为太阳中心平赤道坐标系。
+
+
+# 对于不同的时间系统的转换，有用的网站
+[Terrestrial_Time](https://en.wikipedia.org/wiki/Terrestrial_Time)
+[Date and Time Definitions](https://www.usno.navy.mil/USNO/earth-orientation/eo-info/general/date-time-def)
+[Different Real Time](http://leapsecond.com/java/gpsclock.htm)
